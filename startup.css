@@ -1,0 +1,29 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-image: url("file:///C:/Users/robel/OneDrive/Documents/Udemy_class_web_developer/LandingStock_image_07.jpg");
+   
+  
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.btn-primary{
+  position: relative;
+  top: 10pc;
+  left: 45pc;
+  cursor: pointer;
+}
+h1{
+ position: relative;
+ top: 5pc;
+ text-align: center;
+ 
+}
